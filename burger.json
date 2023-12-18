@@ -1,0 +1,9 @@
+{ "burger" : [
+	{"bun ": 2 ,
+		"doneness" : "MR", 
+			"toppings" : ["tomato" , "cheese" , "lettuce" , "sauce"] 
+			}	
+			]
+}
+   	 	
+
